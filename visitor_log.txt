@@ -1,0 +1,12 @@
+2018-02-13 17:41:24 - ::1 - No Refferer
+2018-02-13 17:42:09 - ::1 - No Refferer
+2018-02-13 17:43:42 - ::1 - http://localhost/php-tracking-visitor/
+2018-02-13 17:43:43 - ::1 - http://localhost/php-tracking-visitor/index.php?r=home
+2018-02-13 17:43:44 - ::1 - http://localhost/php-tracking-visitor/index.php?r=product
+2018-02-13 17:43:44 - ::1 - http://localhost/php-tracking-visitor/index.php?r=pricing
+2018-02-13 17:43:46 - ::1 - http://localhost/php-tracking-visitor/index.php?r=contact
+2018-02-13 17:43:49 - ::1 - http://localhost/php-tracking-visitor/index.php?r=about
+2018-02-13 17:43:49 - ::1 - http://localhost/php-tracking-visitor/index.php?r=home
+2018-02-13 17:43:50 - ::1 - http://localhost/php-tracking-visitor/index.php?r=product
+2018-02-13 17:43:50 - ::1 - http://localhost/php-tracking-visitor/index.php?r=pricing
+2018-02-13 17:43:51 - ::1 - http://localhost/php-tracking-visitor/index.php?r=contact
